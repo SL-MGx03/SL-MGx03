@@ -1,8 +1,7 @@
 # 💫 About Me
 - 👋 Hi, I’m @SL-MGx03  
-- 👀 I’m interested in coding  
-- 🌱 I’m currently learning Python  
-- 💞️ I’m looking to collaborate on bot development
+- 👀 I am a CS university student 
+- 💞️ Enthusiastic about leveraging programming expertise to contribute to collaborative and forward-thinking projects
 
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/SLMGx03)
