@@ -12,7 +12,7 @@ Welcome to my GitHub profile! Here you’ll find a mix of my interests, experime
 - 🌱 Open to collaborations and interesting project ideas.
 
 ## ✨ MY Website
-  https://slmgx.live 
+  🔵 https://slmgx.live 
   
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/SLMGx03)
