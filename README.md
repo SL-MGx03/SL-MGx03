@@ -13,12 +13,13 @@ Welcome to my GitHub profile! Here you’ll find a mix of my interests, experime
 
 
 ## 🌐 Socials
-[![WebSite](https://i.ibb.co/v4bWqfBg/6278572382763465128-99.jpg)](https://slmgx.live)
+<a href="https://slmgx.live">
+  <img src="https://i.ibb.co/v4bWqfBg/6278572382763465128-99.jpg" alt="WebSite" height="28"/>
+</a>
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/SLMGx03)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sl_mgx03)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sl_mgx03)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sl_mgx03)
-
  
 ## 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
