@@ -1,10 +1,19 @@
-# 💫 About Me
-- 👋 Hi, I’m @SL-MGx03  
-- 👀 I am a CS university student 
-- 💞️ Enthusiastic about leveraging programming expertise to contribute to collaborative and forward-thinking projects
+# Hi there 👋, I'm SL-MGx03!
+
+Welcome to my GitHub profile! Here you’ll find a mix of my interests, experiments, and work-in-progress projects. I’m passionate about technology, coding, and learning new things every day. My profile is a window into my journey as a developer and tinkerer.
+
+---
+
+## 🚀 About Me
+
+- 💻 I love exploring new tech, from automation scripts to web development.
+- 📚 Always learning something new — currently enrolled at University, Majoring in Computer Science.
+- 🛠️ Building, breaking, and fixing stuff is my idea of fun.
+- 🌱 Open to collaborations and interesting project ideas.
 
 
 ## 🌐 Socials
+[![WebSite](https://i.ibb.co/v4bWqfBg/6278572382763465128-99.jpg)](https://slmgx.live)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/SLMGx03)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sl_mgx03)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sl_mgx03)
