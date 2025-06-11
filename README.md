@@ -11,11 +11,10 @@ Welcome to my GitHub profile! Here you’ll find a mix of my interests, experime
 - 🛠️ Building, breaking, and fixing stuff is my idea of fun.
 - 🌱 Open to collaborations and interesting project ideas.
 
-
+## ✨ MY Website
+  slmgx.live 
+  
 ## 🌐 Socials
-<a href="https://slmgx.live">
-  <img src="https://i.ibb.co/v4bWqfBg/6278572382763465128-99.jpg" alt="WebSite" height="28"/>
-</a>
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/SLMGx03)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sl_mgx03)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sl_mgx03)
