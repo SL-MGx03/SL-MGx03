@@ -1,4 +1,5 @@
-# Hi there 👋, I'm SL-MGx03!
+# Hi there 👋, I'm SL_MGx !
+
 
 Welcome to my GitHub profile! Here you’ll find a mix of my interests, experiments, and work-in-progress projects. I’m passionate about technology, coding, and learning new things every day. My profile is a window into my journey as a developer and tinkerer.
 
