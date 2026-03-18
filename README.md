@@ -41,6 +41,8 @@ Badges
 ### Military-Aircraft-Finder
 https://github.com/SL-MGx03/Military-Aircraft-Finder
 
+### T20-WC-Predicter
+https://github.com/SL-MGx03/T20-WC-Predicter
 ---
 
 ## 🔬 Other Work & Interests
@@ -79,8 +81,15 @@ https://github.com/SL-MGx03/Military-Aircraft-Finder
 
 ---
 
-## 📈 GitHub Activity
-![](https://github-readme-stats.vercel.app/api?username=sl-mgx03&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=sl-mgx03&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sl-mgx03&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sl-mgx03&theme=dark&hide_border=false&layout=compact)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=sl-mgx03&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 ---
 
