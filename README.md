@@ -49,6 +49,9 @@ Badges
 
 ## 📂 Selected Projects
 
+### SE Agent
+https://github.com/SL-MGx03/SE-Engineer-Agent
+
 ### Military-Aircraft-Finder
 https://github.com/SL-MGx03/Military-Aircraft-Finder
 
