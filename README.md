@@ -91,7 +91,7 @@ https://github.com/SL-MGx03/LPL_AI
 ---
 
 ## 📫 Contact & Socials
-- Website — https://slmgx.live  
+- Website — https://slmgx.edu.lk
 - LinkedIn — https://linkedin.com/in/slmgx
 - X — https://x.com/sl_mgx03  
 - Instagram — https://instagram.com/sl_mgx03  
