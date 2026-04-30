@@ -2,7 +2,7 @@
 
 Welcome — I'm Maleesha, an aspiring AI Engineer and Computer Science student passionate about machine learning, computer vision, artificial intelligence and building practical systems that solve real-world problems. This profile is a curated snapshot of my projects, skills, and interests as I grow as an engineer.
 
-Website: https://slmgx.live
+Website: https://slmgx.edu.lk
 
 ---
 
