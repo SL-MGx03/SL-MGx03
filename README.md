@@ -100,7 +100,7 @@ https://github.com/SL-MGx03/LPL_AI
 ---
 
 ## 🧾 Resume / Portfolio
-My portfolio and detailed CV are available on my website: https://slmgx.live
+My portfolio and detailed CV are available on my website: https://slmgx.edu.lk
 
 ---
 
