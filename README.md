@@ -41,7 +41,7 @@ Website: https://slmgx.edu.lk
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 Badges
-[![Website](https://img.shields.io/badge/Website-slmgx.live-1f425f)](https://slmgx.live) 
+[![Website](https://img.shields.io/badge/Website-slmgx.live-1f425f)](https://slmgx.edu.lk) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/slmgx)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sl_mgx03)
 
