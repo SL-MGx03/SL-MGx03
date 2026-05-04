@@ -49,8 +49,11 @@ Badges
 
 ## 📂 Selected Projects
 
-### SE Agent
+### SE-Agent
 https://github.com/SL-MGx03/SE-Engineer-Agent
+
+### Dark-Psychopaths-Detector
+https://github.com/SL-MGx03/Dark-Psychopaths-Detector
 
 ### Military-Aircraft-Finder
 https://github.com/SL-MGx03/Military-Aircraft-Finder
@@ -58,7 +61,7 @@ https://github.com/SL-MGx03/Military-Aircraft-Finder
 ### T20-WC-Predicter
 https://github.com/SL-MGx03/T20-WC-Predicter
 
-### LPL AI
+### LPL-AI
 https://github.com/SL-MGx03/LPL_AI
 
 ---
